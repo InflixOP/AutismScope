@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AutismScope-Frontend/static/css/main.a421659b.css",
-    "main.js": "/AutismScope-Frontend/static/js/main.f0433b8f.js",
-    "static/js/488.e58e798f.chunk.js": "/AutismScope-Frontend/static/js/488.e58e798f.chunk.js",
-    "static/media/BOGV.gif": "/AutismScope-Frontend/static/media/BOGV.b6b0cf8b229628a91075.gif",
-    "service-worker.js": "/AutismScope-Frontend/service-worker.js",
-    "index.html": "/AutismScope-Frontend/index.html",
-    "main.a421659b.css.map": "/AutismScope-Frontend/static/css/main.a421659b.css.map",
-    "main.f0433b8f.js.map": "/AutismScope-Frontend/static/js/main.f0433b8f.js.map",
-    "488.e58e798f.chunk.js.map": "/AutismScope-Frontend/static/js/488.e58e798f.chunk.js.map"
+    "main.css": "/AutismScope/static/css/main.a421659b.css",
+    "main.js": "/AutismScope/static/js/main.42576582.js",
+    "static/js/488.e58e798f.chunk.js": "/AutismScope/static/js/488.e58e798f.chunk.js",
+    "static/media/BOGV.gif": "/AutismScope/static/media/BOGV.b6b0cf8b229628a91075.gif",
+    "service-worker.js": "/AutismScope/service-worker.js",
+    "index.html": "/AutismScope/index.html",
+    "main.a421659b.css.map": "/AutismScope/static/css/main.a421659b.css.map",
+    "main.42576582.js.map": "/AutismScope/static/js/main.42576582.js.map",
+    "488.e58e798f.chunk.js.map": "/AutismScope/static/js/488.e58e798f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a421659b.css",
-    "static/js/main.f0433b8f.js"
+    "static/js/main.42576582.js"
   ]
 }
